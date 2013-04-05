@@ -1,4 +1,5 @@
 利用Python来配置ubuntu
 	grpyset.py：启用集成显卡，禁用独显来降低在使用ubuntu系统时笔记本温度过高的问题
 	javaset.py:安装jdk
-		说明：将路径‘/home/lw/develop/’下的jdk1.7文件夹复制到‘/usr/bin/java’下，并且设置好相关参数～！
+		说明：将路径‘/home/lw/develop/’下的jdk1.7文件夹复制到‘/usr/bin/java’下，
+		并且设置好相关参数～！
