@@ -7,3 +7,4 @@ python学习笔记
 3. 测试使用SSH来链接git不用输入密码:成功～！！！！
 4. 加入gitupdate.py来快捷更新git并自动加入时间:失败……
 5. 学习使用markdown来写笔记。
+6. keyblock.py:用标志字符串来截取文本内容
